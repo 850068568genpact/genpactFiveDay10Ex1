@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\bin\Debug\Day10ExerciseOne.exe.config
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\bin\Debug\Day10ExerciseOne.exe
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\bin\Debug\Day10ExerciseOne.pdb
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\obj\Debug\Day10ExerciseOne.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\obj\Debug\Day10ExerciseOne.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\obj\Debug\Day10ExerciseOne.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\obj\Debug\Day10ExerciseOne.exe
+C:\DotnetTraining\Day10\Day10ExerciseOne\Day10ExerciseOne\obj\Debug\Day10ExerciseOne.pdb
